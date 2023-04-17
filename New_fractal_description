@@ -10,3 +10,8 @@ c = 0 + 1i
 d = .05 - .723i
 e = .581 -.534i
 
+However, you could put in any parameters to create a new julia set.
+
+Area:
+Perimeter: ???
+Dimesion:
