@@ -1,6 +1,6 @@
 Polynomial Julia Set
 
-The rule: find theset of all points Z s.t Z^5 + aZ^4 + bZ^3 + cZ^2 + dZ + e does not diverge
+The rule: find the set of all points Z s.t Z^5 + aZ^4 + bZ^3 + cZ^2 + dZ + e does not diverge
 Reasoning behind the rule: Having no coefficient on the fifth order term ensures that there will be five sections of similiarity. The remaining coefficients shape the julia set.
 
 For this specific fractal, the following parameters were used: 
