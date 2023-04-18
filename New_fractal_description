@@ -15,5 +15,5 @@ However, you could put in any parameters to create a new julia set.
 Area: ~ 1.042566710013889 - this was calculated by counting the pixels in the set
 Perimeter: ???
 
+Dimesion: 2.00353 (I'm pretty sure it just approaches 2 as I let resolution go to infinity, but I don't have the computing power)
 
-Dimesion:
